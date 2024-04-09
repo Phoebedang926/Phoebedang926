@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phoebedang926, a highly-motivated software developer with a Master of Information degree from UTS. My background includes diverse practical training in the Vietnamese software industry, which has equipped me with strong skills in software design and development. 
+- 👋 Hi, I’m @Phoebedang926, a highly-motivated software developer with a Master of Information degree from UTS. My background includes diverse practical training in the software industry, which has equipped me with strong skills in software design and development. 
 - 👀 I’m interested in ... <br />
 	* data engineering, architecture design <br />
  	* software development, backend <br />
