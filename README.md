@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Phoebedang926, a highly-motivated software developer with a Master of Information degree from UTS. My background includes diverse practical training in the software industry, which has equipped me with strong skills in software design and development. 
 - 👀 I’m interested in ... <br />
-	* data engineering, architecture design <br />
+	* data engineering, data science <br />
  	* software development, backend <br />
-  	* data science <br />
 - 🌱 I’m currently learning ... <br />
 	* machine learning <br />
 - 📫 How to reach me ... <br />
