@@ -3,6 +3,7 @@
 	* data engineering, data science <br />
  	* software development, backend <br />
 - 🌱 I’m currently learning ... <br />
+	* data engineering <br />
 	* machine learning <br />
 - 📫 How to reach me ... <br />
 	* email: phoebedang926@gmail.com <br />
